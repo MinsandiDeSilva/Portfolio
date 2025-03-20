@@ -58,6 +58,7 @@ import python from "./tech/python.jpeg";
 
 import akila from "./testimonials/akilaS.jpg";
 import chandrasiri from "./testimonials/chandrasiri.jpg";
+import harshani from "./testimonials/harshani.jpg";
 
 export {
   logo,
@@ -100,4 +101,5 @@ export {
   python,
   akila,
   chandrasiri,
+  harshani,
 };

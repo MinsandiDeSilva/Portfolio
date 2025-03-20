@@ -35,6 +35,7 @@ import {
   openarc,
   akila,
   chandrasiri,
+  harshani,
 } from "../assets";
 
 export const navLinks = [
@@ -202,11 +203,11 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "She demonstrated a strong eagerness to learn, proactively seeking tasks and opportunities to contribute.",
+    name: "Harshani Wattegedara",
+    designation: "QA team leader",
+    company: "OpenArc Systems Management",
+    image: harshani,
   },
 ];
 
