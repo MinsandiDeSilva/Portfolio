@@ -34,6 +34,7 @@ import {
   leco,
   openarc,
   akila,
+  chandrasiri,
 } from "../assets";
 
 export const navLinks = [
@@ -194,10 +195,10 @@ const testimonials = [
   {
     testimonial:
       "She seamlessly integrates with the team, bringing enthusiasm and a strong eagerness to learn and grow.",
-    name: "Chandrasiri ",
-    designation: "DGM",
+    name: "Chandrasiri Weerasekara",
+    designation: "Deputy General Manager IT",
     company: "LECO",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: chandrasiri,
   },
   {
     testimonial:
