@@ -60,6 +60,8 @@ import akila from "./testimonials/akilaS.jpg";
 import chandrasiri from "./testimonials/chandrasiri.jpg";
 import harshani from "./testimonials/harshani.jpg";
 
+import lawfirm from "./law_firm.png";
+
 export {
   logo,
   backend,
@@ -102,4 +104,5 @@ export {
   akila,
   chandrasiri,
   harshani,
+  lawfirm,
 };
