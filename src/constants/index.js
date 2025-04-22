@@ -39,6 +39,7 @@ import {
 
   lawfirm,
   ceylonmine,
+  ticket_app,
 } from "../assets";
 
 export const navLinks = [
@@ -256,6 +257,48 @@ const projects = [
     ],
     image: ceylonmine,
     source_code_link: "https://github.com/CeylonMine",
+  },
+  {
+    name: "Ticketing System",
+    description:
+      "Built a real-time ticketing system using Java multithreading and Angular, showcasing expertise in concurrency and the producer-consumer model",
+    tags: [
+      {
+        name: "angular",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "springboot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "postgresql",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ticket_app,
+    source_code_link: "https://github.com/Real-time_Ticketing_App_Frontend",
+  },
+  {
+    name: "Jobs Management System",
+    description:
+      "Built a real-time ticketing system using Java multithreading and Angular, showcasing expertise in concurrency and the producer-consumer model",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ticket_app,
+    source_code_link: "https://github.com/Real-time_Ticketing_App_Frontend",
   },
   // {
   //   name: "Trip Guide",

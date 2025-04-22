@@ -62,6 +62,7 @@ import harshani from "./testimonials/harshani.jpg";
 
 import lawfirm from "./law_firm.png";
 import ceylonmine from "./ceylonmine.png";
+import ticket_app from "./ticket_app.png";
 
 export {
   logo,
@@ -106,5 +107,6 @@ export {
   chandrasiri,
   harshani,
   lawfirm,
-  ceylonmine
+  ceylonmine,
+  ticket_app
 };
