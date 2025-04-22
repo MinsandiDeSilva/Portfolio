@@ -40,6 +40,7 @@ import {
   lawfirm,
   ceylonmine,
   ticket_app,
+  Mern,
 } from "../assets";
 
 export const navLinks = [
@@ -259,7 +260,28 @@ const projects = [
     source_code_link: "https://github.com/CeylonMine",
   },
   {
-    name: "Ticketing System",
+    name: " AI driven Jobs Platform",
+    description:
+      "An AI-powered MERN stack platform that streamlines CV screening and connects users with job and internship opportunities through a sleek, responsive interface",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Mern,
+    source_code_link: "https://github.com/MinsandiDeSilva/MERN-frontend",
+  },
+  {
+    name: "Concert Ticketing System",
     description:
       "Built a real-time ticketing system using Java multithreading and Angular, showcasing expertise in concurrency and the producer-consumer model",
     tags: [
@@ -279,27 +301,7 @@ const projects = [
     image: ticket_app,
     source_code_link: "https://github.com/Real-time_Ticketing_App_Frontend",
   },
-  {
-    name: "Jobs Management System",
-    description:
-      "Built a real-time ticketing system using Java multithreading and Angular, showcasing expertise in concurrency and the producer-consumer model",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: ticket_app,
-    source_code_link: "https://github.com/Real-time_Ticketing_App_Frontend",
-  },
+  
   // {
   //   name: "Trip Guide",
   //   description:
